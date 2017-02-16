@@ -1,0 +1,6 @@
+{
+    "name": "srathbone/wkhtmltopdf-bins",
+    "type": "project",
+    "version": "0.12.4",
+    "bin": ["bin/wkhtmltopdf-linux64", "bin/wkhtmltopdf-osx64"]
+}
