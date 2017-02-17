@@ -1,6 +1,7 @@
 {
     "name": "srathbone/wkhtmltopdf-bins",
     "type": "project",
+    "license": "LGPL-3.0",
     "version": "0.12.4",
     "bin": ["bin/wkhtmltopdf-linux64", "bin/wkhtmltopdf-osx64"]
 }
